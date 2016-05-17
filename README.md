@@ -6,6 +6,6 @@ Few rules about technology to use, before we start:
 - Jave EE 7
 - Maven 3
 - Bootstrap 4
-- Angular 3
+- Angular 2
 
 Keep it simple, less is more.
