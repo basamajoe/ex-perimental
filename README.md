@@ -1,6 +1,9 @@
 # ex-perimental
 Experimental samples to check the state of the art technology 
 
+Design Pattern:
+- BCE - Boundary Controller Entity
+
 Few rules about technology to use, before we start:
 - Java 8
 - Jave EE 7
