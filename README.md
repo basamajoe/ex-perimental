@@ -12,5 +12,7 @@ Few rules about technology to use, before we start:
 - Maven 3
 - Bootstrap 4
 - Angular 2
+- MariaDB
+- MongoDB
 
 Keep it simple, less is more.
